@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgH7W3hGnPL9hzDz+LQvqBAVN+uSb8aYHWwdbsjFUyigonnhhecLIkXODFFEnCjuoAj9jXxxswGUBUqvV8qmdw==",
+  "success": true,
+  "projectFilePath": "D:\\DATA\\Study\\C#\\CS3500\\TankWars\\World\\World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baoch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\baoch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\baoch\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

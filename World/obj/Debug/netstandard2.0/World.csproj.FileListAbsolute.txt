@@ -1,0 +1,13 @@
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\World.deps.json
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\World.dll
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\World.pdb
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\NetworkController.dll
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\Vector2D.dll
+D:\DATA\Study\C#\CS3500\TankWars\World\bin\Debug\netstandard2.0\Vector2D.pdb
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.csprojAssemblyReference.cache
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfoInputs.cache
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfo.cs
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.csproj.CoreCompileInputs.cache
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.csproj.CopyComplete
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.dll
+D:\DATA\Study\C#\CS3500\TankWars\World\obj\Debug\netstandard2.0\World.pdb

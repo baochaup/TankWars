@@ -1,0 +1,11 @@
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\DrawingPanel.dll
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\DrawingPanel.pdb
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\Vector2D.dll
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\World.dll
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\Vector2D.pdb
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\bin\Debug\World.pdb
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csprojAssemblyReference.cache
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csproj.CoreCompileInputs.cache
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csproj.CopyComplete
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\obj\Debug\DrawingPanel.dll
+D:\DATA\Study\C#\CS3500\TankWars\DrawingPanel\obj\Debug\DrawingPanel.pdb

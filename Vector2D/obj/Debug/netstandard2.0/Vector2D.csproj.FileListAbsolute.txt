@@ -1,0 +1,9 @@
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csprojAssemblyReference.cache
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+D:\DATA\Study\C#\CS3500\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb
